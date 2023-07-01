@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التطبيق</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">البريد الالكتروني</string>
+    <string name="prompt_password">كلمة المرور</string>
+    <string name="mss">هل لديك حساب شخصي?</string>
+    <string name="action_sign_in_short">انشئ حساب</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="channel_name">اشعارات</string>
+    <string name="channel_description">اشعارات</string>
+    <string name="welcome">"مرحبا"</string>
+    <string name="title">اهلا بك</string>
+    <string name="w">البريد الإلكتروني غير صالح</string>
+    <string name="i">طول كلمة المرور غير صالحة</string>
+</resources>

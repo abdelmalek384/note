@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email id</string>
+    <string name="prompt_password">Password</string>
+    <string name="Login">LogIn</string>
+    <string name="mss">Do not have an account?</string>
+    <string name="action_sign_in_short">Create Account</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">Notification</string>
+    <string name="welcome">"Hello"</string>
+    <string name="title">Welcome Back</string>
+    <string name="w">Email is invalid</string>
+    <string name="i">Password length is invalid</string>
+</resources>
